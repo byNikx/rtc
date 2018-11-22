@@ -1,0 +1,25 @@
+{
+  "name": "rtc",
+  "version": "0.0.1",
+  "description": "WebRTC description.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byNikx/rtc.git"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "Nadeem Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byNikx/rtc/issues"
+  },
+  "homepage": "https://github.com/byNikx/rtc#readme"
+}
